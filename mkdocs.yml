@@ -1,0 +1,4 @@
+site_name: algobet Labs
+pages:
+  - Home: index.md
+theme: readthedocs
