@@ -8,20 +8,20 @@
 * [Quarkonium](http://www.quarkonium.org)
 * [Dasset](http://www.dasset.trade)
 * [Blokaly](http://www.blokaly.com)
-* [Allbot](http://) - tba
+* [Allbot]() - tba
 
 ### Products
-* [BAO](http://) - tba
-* [BAS](http://) - tba
-* [DAP](http://) - tba
-* [BOT](http://) - tba
+* [BAO]() - tba
+* [BAS]() - tba
+* [DAP]() - tba
+* [BOT]() - tba
 
 ### Proof of Concepts
-* [Badge](http://) - tba
-* [PDAMP](http://) - tba
-* [III](http://) - tba
-* [VAST](http://) - tba
-* [ABOT](http://) - tba
+* [Badge]() - tba
+* [PDAMP]() - tba
+* [ABOT]() - tba
+* [VAST]() - tba
+* [III]() - tba
 
 
 ## Contact
