@@ -19,7 +19,7 @@
 ### Proof of Concepts
 * zk-Authentication: [Badge]() - tba
 * Dassetization: [PDAMP]() - tba
-* Abotization: [ABOT]() - tba
+* Allbotization: [ABOT]() - tba
 * Internet of Value: [VAST]() - tba
 * Intention Economy: [III]() - tba
 
