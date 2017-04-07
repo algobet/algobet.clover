@@ -17,11 +17,11 @@
 * [BOT]() - tba
 
 ### Proof of Concepts
-* [Badge]() - tba
-* [PDAMP]() - tba
-* [ABOT]() - tba
-* [VAST]() - tba
-* [III]() - tba
+* zk-Authentication: [Badge]() - tba
+* Dassetization: [PDAMP]() - tba
+* Abotization: [ABOT]() - tba
+* Internet of Value: [VAST]() - tba
+* Intention Economy: [III]() - tba
 
 
 ## Contact

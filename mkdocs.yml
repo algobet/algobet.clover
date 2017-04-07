@@ -1,4 +1,21 @@
 site_name: algobet Labs
 pages:
   - Home: index.md
+  - Projects:
+    - Quarkonium: 'projects/quarkonium.md'
+    - Dasset: 'projects/dasset.md'
+    - Allbot: 'projects/allbot.md'
+    - Blokaly: 'projects/blokaly.md'
+  - Products:
+    - Blockchain Asset Omnificence: 'products/bao.md'
+    - Blockchain Asset System: 'products/bas.md'
+    - Digital Asset Platform: 'products/dap.md'
+    - Bot On Time: 'products/bot.md'
+  - Proof of Concepts:
+    - Intention Economy: 'poc/iii.md'
+    - Internet of Value: 'poc/vast.md'
+    - zk-Authentication: 'poc/badge.md'
+    - Dassetization: 'poc/pdamp.md'
+    - Allbotization: 'poc/abot.md'
+  - Miscellaneous: misc.md
 theme: readthedocs
