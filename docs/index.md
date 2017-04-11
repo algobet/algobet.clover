@@ -5,19 +5,19 @@
 
 ### Projects
 * [**algobet Gitlab**](http://code.algobet.org) - members only
-* [Quarkonium](http://www.quarkonium.org)
-* [Dasset](http://www.dasset.trade)
-* [Blokaly](http://www.blokaly.com)
+* [Quarkonium](http://quarkonium.readthedocs.io/en/latest/)
+* [Dasset](http://dasset.readthedocs.io/en/latest/)
+* [Blokaly](http://blokaly.readthedocs.io/en/latest/)
 * [Allbot]() - tba
 
 ### Products
-* [BAO]() - tba
+* [BAO](https://bao.dasset.trade) - private alpha
 * [BAS]() - tba
 * [DAP]() - tba
 * [BOT]() - tba
 
 ### Proof of Concepts
-* zk-Authentication: [Badge]() - tba
+* zk-Authentication: [Badge](https://www.blokaly.com) - private alpha
 * Dassetization: [PDAMP]() - tba
 * Allbotization: [ABOT]() - tba
 * Internet of Value: [VAST]() - tba
