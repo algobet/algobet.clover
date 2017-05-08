@@ -7,8 +7,8 @@
 * [**algobet Gitlab**](http://code.algobet.org) - members only
 * [Quarkonium](http://quarkonium.readthedocs.io/en/latest/)
 * [Dasset](http://dasset.readthedocs.io/en/latest/)
+* [Allbot](http://allbot.readthedocs.io/en/latest/)
 * [Blokaly](http://blokaly.readthedocs.io/en/latest/)
-* [Allbot]() - tba
 
 ### Products
 * [BAO](https://bao.dasset.trade) - private alpha
