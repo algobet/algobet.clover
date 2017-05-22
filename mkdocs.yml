@@ -8,7 +8,7 @@ pages:
     - Blokaly: 'projects/blokaly.md'
   - Products:
     - Blockchain Asset Omnificence: 'products/bao.md'
-    - Blockchain Asset System: 'products/bas.md'
+    - Digital Asset Simulator: 'products/das.md'
     - Digital Asset Platform: 'products/dap.md'
     - Bot On Time: 'products/bot.md'
   - Proof of Concepts:

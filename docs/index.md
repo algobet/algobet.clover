@@ -12,7 +12,7 @@
 
 ### Products
 * [BAO](https://bao.dasset.trade) - private alpha
-* [BAS]() - tba
+* [DAS]() - tba
 * [DAP]() - tba
 * [BOT]() - tba
 
