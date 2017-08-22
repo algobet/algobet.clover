@@ -1,0 +1,149 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Welcome to algobet Labs\n\n\nalgobet\u2122 concept | algobet Labs \u00a9 2017\n\n\nUseful Links\n\n\nProjects\n\n\n\n\nalgobet Gitlab\n - members only\n\n\nQuarkonium\n\n\nDasset\n\n\nAllbot\n\n\nBlokaly\n\n\n\n\nProducts\n\n\n\n\nBAO\n - private alpha\n\n\nDAS\n - tba\n\n\nDAP\n - tba\n\n\nBOT\n - tba\n\n\n\n\nProof of Concepts\n\n\n\n\nzk-Authentication: \nBadge\n - private alpha\n\n\nDassetization: \nPDAMP\n - tba\n\n\nAllbotization: \nABOT\n - tba\n\n\nInternet of Value: \nVAST\n - tba\n\n\nIntention Economy: \nIII\n - tba\n\n\n\n\nContact\n\n\n\n\nWebsite: http://www.algobet.org\n\n\nGithub: https://github.com/algobet-org/\n\n\nSlack: algobetlabs.slack.com\n\n\nEmail: admin@algobet.org\n\n\n\n\nDisclaimer\n\n\nThe information contained in this website is for general information purposes only. The information is provided by \nalgobet\u2122 concept | algobet Labs \u00a9 2017\n and while we endeavour to keep the information up to date and correct, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the website or the information, products, services, or related graphics contained on the website for any purpose. Any reliance you place on such information is therefore strictly at your own risk.", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#welcome-to-algobet-labs", 
+            "text": "algobet\u2122 concept | algobet Labs \u00a9 2017", 
+            "title": "Welcome to algobet Labs"
+        }, 
+        {
+            "location": "/#useful-links", 
+            "text": "", 
+            "title": "Useful Links"
+        }, 
+        {
+            "location": "/#projects", 
+            "text": "algobet Gitlab  - members only  Quarkonium  Dasset  Allbot  Blokaly", 
+            "title": "Projects"
+        }, 
+        {
+            "location": "/#products", 
+            "text": "BAO  - private alpha  DAS  - tba  DAP  - tba  BOT  - tba", 
+            "title": "Products"
+        }, 
+        {
+            "location": "/#proof-of-concepts", 
+            "text": "zk-Authentication:  Badge  - private alpha  Dassetization:  PDAMP  - tba  Allbotization:  ABOT  - tba  Internet of Value:  VAST  - tba  Intention Economy:  III  - tba", 
+            "title": "Proof of Concepts"
+        }, 
+        {
+            "location": "/#contact", 
+            "text": "Website: http://www.algobet.org  Github: https://github.com/algobet-org/  Slack: algobetlabs.slack.com  Email: admin@algobet.org", 
+            "title": "Contact"
+        }, 
+        {
+            "location": "/#disclaimer", 
+            "text": "The information contained in this website is for general information purposes only. The information is provided by  algobet\u2122 concept | algobet Labs \u00a9 2017  and while we endeavour to keep the information up to date and correct, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the website or the information, products, services, or related graphics contained on the website for any purpose. Any reliance you place on such information is therefore strictly at your own risk.", 
+            "title": "Disclaimer"
+        }, 
+        {
+            "location": "/projects/quarkonium/", 
+            "text": "", 
+            "title": "Quarkonium"
+        }, 
+        {
+            "location": "/projects/dasset/", 
+            "text": "", 
+            "title": "Dasset"
+        }, 
+        {
+            "location": "/projects/allbot/", 
+            "text": "", 
+            "title": "Allbot"
+        }, 
+        {
+            "location": "/projects/blokaly/", 
+            "text": "", 
+            "title": "Blokaly"
+        }, 
+        {
+            "location": "/products/bao/", 
+            "text": "", 
+            "title": "Blockchain Asset Omnificence"
+        }, 
+        {
+            "location": "/products/das/", 
+            "text": "", 
+            "title": "Digital Asset Simulator"
+        }, 
+        {
+            "location": "/products/dap/", 
+            "text": "", 
+            "title": "Digital Asset Platform"
+        }, 
+        {
+            "location": "/products/bot/", 
+            "text": "", 
+            "title": "Bot On Time"
+        }, 
+        {
+            "location": "/poc/iii/", 
+            "text": "", 
+            "title": "Intention Economy"
+        }, 
+        {
+            "location": "/poc/vast/", 
+            "text": "", 
+            "title": "Internet of Value"
+        }, 
+        {
+            "location": "/poc/badge/", 
+            "text": "", 
+            "title": "zk-Authentication"
+        }, 
+        {
+            "location": "/poc/pdamp/", 
+            "text": "", 
+            "title": "Dassetization"
+        }, 
+        {
+            "location": "/poc/abot/", 
+            "text": "", 
+            "title": "Allbotization"
+        }, 
+        {
+            "location": "/misc/", 
+            "text": "Miscellaneous\n\n\nInterstellar Blogs\n\n\nReferral Program\n\n\nDeveloper Program\n\n\nResources\n\n\nLogos, Fonts, Colors, Terminology\n\n\nBrands and (Unregistered) Trademarks", 
+            "title": "Miscellaneous"
+        }, 
+        {
+            "location": "/misc/#miscellaneous", 
+            "text": "", 
+            "title": "Miscellaneous"
+        }, 
+        {
+            "location": "/misc/#interstellar-blogs", 
+            "text": "", 
+            "title": "Interstellar Blogs"
+        }, 
+        {
+            "location": "/misc/#referral-program", 
+            "text": "", 
+            "title": "Referral Program"
+        }, 
+        {
+            "location": "/misc/#developer-program", 
+            "text": "", 
+            "title": "Developer Program"
+        }, 
+        {
+            "location": "/misc/#resources", 
+            "text": "", 
+            "title": "Resources"
+        }, 
+        {
+            "location": "/misc/#logos-fonts-colors-terminology", 
+            "text": "", 
+            "title": "Logos, Fonts, Colors, Terminology"
+        }, 
+        {
+            "location": "/misc/#brands-and-unregistered-trademarks", 
+            "text": "", 
+            "title": "Brands and (Unregistered) Trademarks"
+        }
+    ]
+}
